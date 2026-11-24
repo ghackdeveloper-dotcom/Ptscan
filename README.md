@@ -12,3 +12,8 @@ Useage:
 ./ptscan <ip> -p <port>
 
 ./ptscan <ip> -a (all scan)
+
+DISCLAMER!
+
+Please do not use this tool against devices that you do not have permission to test, use only in educational settings
+
