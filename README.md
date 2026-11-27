@@ -5,7 +5,7 @@ so there will be both efficiency and timing updates, plus the Windows version. T
 
 To compile it: gcc ptscan -o ptscan
 
-Useage:
+Usage:
 
 ./ptscan <ip> -s <initial_port> <final_port>
 
